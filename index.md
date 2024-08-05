@@ -2,6 +2,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```javascript
+const hello = "Hello!";
+```
 
 
 ### I used '#' to add headers to this file
